@@ -12,4 +12,10 @@ public class DoStuff : MonoBehaviour {
     {
         Debug.Log("Doing even more stuff!");
     }
+
+
+
+    void SomeNewMethod() {
+        
+    }
 }
