@@ -4,22 +4,31 @@ using UnityEngine;
 
 public class DoStuff : MonoBehaviour {
 
-	void Start () {
-        Debug.Log("Doing stuff yup totally");
-	}
-
     private void Update()
     {
         Debug.Log("Doing even more stuff!");
         Debug.Log("Moooooar");
     }
 
-    public void HeyItsAnotherMethod()
-    {
+    public void HeyItsAnotherMethod() {
+
+    }
+
+    void blah() {
 
     }
 
     void SomeNewMethod() {
         
+    }
+
+    void HeyAnotherMethod()
+    {
+
+    }
+
+    void blahahdh()
+    {
+
     }
 }
