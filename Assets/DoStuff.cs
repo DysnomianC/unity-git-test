@@ -11,9 +11,13 @@ public class DoStuff : MonoBehaviour {
     private void Update()
     {
         Debug.Log("Doing even more stuff!");
+        Debug.Log("Moooooar");
     }
 
+    public void HeyItsAnotherMethod()
+    {
 
+    }
 
     void SomeNewMethod() {
         
